@@ -23,6 +23,25 @@ Các bộ dữ liệu nhỏ, sạch, sẵn dùng về Việt Nam. Tất cả ở
 
 Nguồn: [Chinhphu.vn — Chi tiết 34 đơn vị hành chính cấp tỉnh](https://xaydungchinhsach.chinhphu.vn/chi-tiet-34-don-vi-hanh-chinh-cap-tinh-tu-12-6-2025-119250612141845533.htm)
 
+### `kinh-te-vietnam-1960-2024.csv`
+
+Chuỗi thời gian dân số và GDP Việt Nam theo World Bank (World Development Indicators, cập nhật 04/2026).
+
+| Cột | Mô tả |
+|---|---|
+| `nam` | Năm |
+| `dan_so` | Dân số (SP.POP.TOTL) |
+| `gdp_usd` | GDP danh nghĩa, USD hiện hành (NY.GDP.MKTP.CD), làm tròn về USD |
+| `gdp_tang_truong_pct` | Tăng trưởng GDP thực, % (NY.GDP.MKTP.KD.ZG), làm tròn 2 chữ số |
+
+**Lưu ý:** GDP trống trước 1985. Các giá trị USD giai đoạn 1985–1990 biến động mạnh do chế độ tỷ giá thời kỳ trước Đổi mới — dùng cột tăng trưởng thực để phân tích giai đoạn này.
+
+Nguồn: [World Bank Open Data](https://data.worldbank.org/country/vietnam) (CC BY-4.0)
+
+### `tet-nguyen-dan-2025-2035.csv`
+
+Ngày mùng 1 Tết Nguyên đán (dương lịch) và can chi từng năm, 2025–2035. Tính theo âm lịch quy ước; âm lịch Việt Nam (UTC+7) hiếm khi lệch 1 ngày so với lịch tính theo UTC+8 — nên đối chiếu thông báo chính thức cho từng năm khi dùng cho nghiệp vụ.
+
 ### `ngay-le-vietnam-2026.csv`
 
 Các ngày nghỉ lễ chính thức năm 2026 theo Điều 112 Bộ luật Lao động 2019, kèm ngày âm lịch và ghi chú nghỉ bù.
@@ -31,4 +50,4 @@ Nguồn: [Chinhphu.vn — Lịch nghỉ lễ năm 2026](https://xaydungchinhsach
 
 ## Giấy phép
 
-Số liệu gốc thuộc nguồn công khai của Nhà nước Việt Nam; phần biên soạn phát hành theo [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+Số liệu gốc thuộc nguồn công khai của Nhà nước Việt Nam và World Bank (CC BY-4.0); phần biên soạn phát hành theo [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
