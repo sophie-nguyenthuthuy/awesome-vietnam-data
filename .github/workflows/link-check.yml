@@ -1,1 +1,26 @@
-{"name":"Link check","on":{"workflow_dispatch":{},"schedule":[{"cron":"0 3 * * 1"}],"push":{"branches":["main"],"paths":["README.md","README.vi.md","data/README.md"]}},"permissions":{"contents":"read"},"jobs":{"lychee":{"runs-on":"ubuntu-latest","steps":[{"uses":"actions/checkout@v4"},{"name":"Check links","uses":"lycheeverse/lychee-action@v2","with":{"args":"--no-progress --accept 200,202,403,429 README.md README.vi.md data/README.md","fail":false}}]}}}
+name: Link check
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 1"   # 03:00 UTC mỗi thứ Hai
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "README.vi.md"
+      - "data/README.md"
+
+permissions:
+  contents: read
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --accept 200,202,403,429 README.md README.vi.md data/README.md
+          fail: false
