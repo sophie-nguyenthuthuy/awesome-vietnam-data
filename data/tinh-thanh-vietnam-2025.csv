@@ -1,0 +1,35 @@
+stt,ten,loai,mien,sap_nhap_tu,dien_tich_km2,dan_so,nguon_dan_so
+1,Hà Nội,Thành phố,Bắc,Giữ nguyên,3359.84,8435650,GSO 2023
+2,Hải Phòng,Thành phố,Bắc,Hải Phòng + Hải Dương,3194.72,4664124,NQ 202/2025/QH15
+3,Quảng Ninh,Tỉnh,Bắc,Giữ nguyên,6207.93,1362880,GSO 2023
+4,Bắc Ninh,Tỉnh,Bắc,Bắc Ninh + Bắc Giang,4718.60,3619433,NQ 202/2025/QH15
+5,Hưng Yên,Tỉnh,Bắc,Hưng Yên + Thái Bình,2514.81,3567943,NQ 202/2025/QH15
+6,Ninh Bình,Tỉnh,Bắc,Ninh Bình + Hà Nam + Nam Định,3942.62,4412264,NQ 202/2025/QH15
+7,Phú Thọ,Tỉnh,Bắc,Phú Thọ + Vĩnh Phúc + Hòa Bình,9361.38,4022638,NQ 202/2025/QH15
+8,Thái Nguyên,Tỉnh,Bắc,Thái Nguyên + Bắc Kạn,8375.21,1799489,NQ 202/2025/QH15
+9,Tuyên Quang,Tỉnh,Bắc,Tuyên Quang + Hà Giang,13795.50,1865270,NQ 202/2025/QH15
+10,Lào Cai,Tỉnh,Bắc,Lào Cai + Yên Bái,13256.92,1778785,NQ 202/2025/QH15
+11,Cao Bằng,Tỉnh,Bắc,Giữ nguyên,6700.39,543050,GSO 2023
+12,Lạng Sơn,Tỉnh,Bắc,Giữ nguyên,8310.18,802090,GSO 2023
+13,Điện Biên,Tỉnh,Bắc,Giữ nguyên,9539.93,633980,GSO 2023
+14,Lai Châu,Tỉnh,Bắc,Giữ nguyên,9068.73,482100,GSO 2023
+15,Sơn La,Tỉnh,Bắc,Giữ nguyên,14109.83,1300130,GSO 2023
+16,Thanh Hóa,Tỉnh,Trung,Giữ nguyên,11114.71,3722060,GSO 2023
+17,Nghệ An,Tỉnh,Trung,Giữ nguyên,16486.49,3416900,GSO 2023
+18,Hà Tĩnh,Tỉnh,Trung,Giữ nguyên,5994.45,1317200,GSO 2023
+19,Quảng Trị,Tỉnh,Trung,Quảng Trị + Quảng Bình,12700.00,1870845,NQ 202/2025/QH15
+20,Huế,Thành phố,Trung,Giữ nguyên,4947.11,1160220,GSO 2023
+21,Đà Nẵng,Thành phố,Trung,Đà Nẵng + Quảng Nam,11859.59,3065628,NQ 202/2025/QH15
+22,Quảng Ngãi,Tỉnh,Trung,Quảng Ngãi + Kon Tum,14832.55,2161755,NQ 202/2025/QH15
+23,Gia Lai,Tỉnh,Trung,Gia Lai + Bình Định,21576.53,3583693,NQ 202/2025/QH15
+24,Đắk Lắk,Tỉnh,Trung,Đắk Lắk + Phú Yên,18096.40,3346853,NQ 202/2025/QH15
+25,Khánh Hòa,Tỉnh,Trung,Khánh Hòa + Ninh Thuận,8555.86,2243554,NQ 202/2025/QH15
+26,Lâm Đồng,Tỉnh,Trung,Lâm Đồng + Đắk Nông + Bình Thuận,24233.07,3872999,NQ 202/2025/QH15
+27,Hồ Chí Minh,Thành phố,Nam,TP.HCM + Bà Rịa - Vũng Tàu + Bình Dương,6772.59,14002598,NQ 202/2025/QH15
+28,Đồng Nai,Tỉnh,Nam,Đồng Nai + Bình Phước,12737.18,4491408,NQ 202/2025/QH15
+29,Tây Ninh,Tỉnh,Nam,Tây Ninh + Long An,8536.44,3254170,NQ 202/2025/QH15
+30,Cần Thơ,Thành phố,Nam,Cần Thơ + Sóc Trăng + Hậu Giang,6360.83,4199824,NQ 202/2025/QH15
+31,Vĩnh Long,Tỉnh,Nam,Vĩnh Long + Bến Tre + Trà Vinh,6296.20,4257581,NQ 202/2025/QH15
+32,Đồng Tháp,Tỉnh,Nam,Đồng Tháp + Tiền Giang,5938.64,4370046,NQ 202/2025/QH15
+33,An Giang,Tỉnh,Nam,An Giang + Kiên Giang,9888.91,4952238,NQ 202/2025/QH15
+34,Cà Mau,Tỉnh,Nam,Cà Mau + Bạc Liêu,7942.39,2606672,NQ 202/2025/QH15
