@@ -4,6 +4,8 @@
 
 *Curated by [@sophie-nguyenthuthuy](https://github.com/sophie-nguyenthuthuy). PRs welcome — see [Contributing](#contributing).*
 
+*🇻🇳 Tiếng Việt: [README.vi.md](README.vi.md) · Starter datasets (34 tỉnh thành 2025, ngày lễ 2026): [`data/`](data/)*
+
 ## Contents
 
 - [Official & Government](#official--government)
