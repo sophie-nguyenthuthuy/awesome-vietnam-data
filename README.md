@@ -4,7 +4,7 @@
 
 *Curated by [@sophie-nguyenthuthuy](https://github.com/sophie-nguyenthuthuy). PRs welcome — see [Contributing](#contributing).*
 
-*🇻🇳 Tiếng Việt: [README.vi.md](README.vi.md) · Starter datasets (34 tỉnh thành 2025, ngày lễ 2026): [`data/`](data/)*
+*🇻🇳 Tiếng Việt: [README.vi.md](README.vi.md) · Starter datasets (provinces 2025, GDP & population 1960–2024, airports, Tết, holidays): [`data/`](data/)*
 
 ## Contents
 
