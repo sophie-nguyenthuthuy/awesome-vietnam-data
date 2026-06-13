@@ -42,6 +42,10 @@ Nguồn: [World Bank Open Data](https://data.worldbank.org/country/vietnam) (CC 
 
 Ngày mùng 1 Tết Nguyên đán (dương lịch) và can chi từng năm, 2025–2035. Tính theo âm lịch quy ước; âm lịch Việt Nam (UTC+7) hiếm khi lệch 1 ngày so với lịch tính theo UTC+8 — nên đối chiếu thông báo chính thức cho từng năm khi dùng cho nghiệp vụ.
 
+### `chi-so-phat-trien-2000-2023.csv`
+
+Chỉ số phát triển 2000–2023 theo World Bank: lạm phát CPI (%), tuổi thọ trung bình (năm), tỷ lệ dùng Internet (% dân số). Nguồn: [World Bank Open Data](https://data.worldbank.org/country/vietnam) (CC BY-4.0).
+
 ### `san-bay-vietnam.csv`
 
 Các sân bay dân dụng đang khai thác (11 quốc tế, 12 nội địa) kèm mã IATA/ICAO và tỉnh, thành theo địa giới 2025; thêm Long Thành (đang xây dựng). Nguồn: tổng hợp từ ICAO/IATA qua [Wikipedia — List of airports in Vietnam](https://en.wikipedia.org/wiki/List_of_airports_in_Vietnam).
