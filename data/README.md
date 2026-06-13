@@ -46,6 +46,10 @@ Ngày mùng 1 Tết Nguyên đán (dương lịch) và can chi từng năm, 2025
 
 Chỉ số phát triển 2000–2023 theo World Bank: lạm phát CPI (%), tuổi thọ trung bình (năm), tỷ lệ dùng Internet (% dân số). Nguồn: [World Bank Open Data](https://data.worldbank.org/country/vietnam) (CC BY-4.0).
 
+### `di-san-the-gioi-unesco.csv`
+
+9 Di sản Thế giới UNESCO tại Việt Nam (6 văn hóa, 2 tự nhiên, 1 hỗn hợp) kèm năm công nhận, mã hồ sơ UNESCO và tỉnh, thành theo địa giới 2025. Nguồn: [UNESCO World Heritage Centre — Viet Nam](https://whc.unesco.org/en/statesparties/vn) (qua Wikipedia).
+
 ### `san-bay-vietnam.csv`
 
 Các sân bay dân dụng đang khai thác (11 quốc tế, 12 nội địa) kèm mã IATA/ICAO và tỉnh, thành theo địa giới 2025; thêm Long Thành (đang xây dựng). Nguồn: tổng hợp từ ICAO/IATA qua [Wikipedia — List of airports in Vietnam](https://en.wikipedia.org/wiki/List_of_airports_in_Vietnam).
