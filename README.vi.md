@@ -28,6 +28,8 @@ Thư mục [`data/`](data/) chứa các bộ dữ liệu CSV nhỏ, sạch, sẵ
 - [`vuon-quoc-gia-vietnam.csv`](data/vuon-quoc-gia-vietnam.csv) — 34 vườn quốc gia kèm năm thành lập, vùng và diện tích.
 - [`ty-gia-vnd-usd-1995-2024.csv`](data/ty-gia-vnd-usd-1995-2024.csv) — tỷ giá VND/USD bình quân năm 1995–2024 (World Bank).
 - [`song-ngoi-vietnam.csv`](data/song-ngoi-vietnam.csv) — 16 con sông lớn kèm chiều dài, lưu vực và nơi đổ ra.
+- [`cang-bien-vietnam.csv`](data/cang-bien-vietnam.csv) — 13 cảng biển thương mại kèm phân loại và tỉnh/thành 2025.
+- [`dai-hoc-vietnam.csv`](data/dai-hoc-vietnam.csv) — 21 trường đại học lớn kèm năm thành lập và loại hình.
 - [`san-bay-vietnam.csv`](data/san-bay-vietnam.csv) — sân bay dân dụng kèm mã IATA/ICAO theo địa giới 2025.
 - [`tet-nguyen-dan-2025-2035.csv`](data/tet-nguyen-dan-2025-2035.csv) — ngày mùng 1 Tết và can chi 2025–2035.
 - [`ngay-le-vietnam-2026.csv`](data/ngay-le-vietnam-2026.csv) — ngày nghỉ lễ chính thức 2026, kèm âm lịch và nghỉ bù.
