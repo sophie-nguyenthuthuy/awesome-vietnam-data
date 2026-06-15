@@ -44,7 +44,11 @@ Ngày mùng 1 Tết Nguyên đán (dương lịch) và can chi từng năm, 2025
 
 ### `chi-so-phat-trien-2000-2023.csv`
 
-Chỉ số phát triển 2000–2023 theo World Bank: lạm phát CPI (%), tuổi thọ trung bình (năm), tỷ lệ dùng Internet (% dân số). Nguồn: [World Bank Open Data](https://data.worldbank.org/country/vietnam) (CC BY-4.0).
+Chỉ số phát triển 2000–2023 theo World Bank: lạm phát CPI (%), tuổi thọ trung bình (năm), tỷ lệ dùng Internet (% dân số), tỷ lệ dân thành thị (% dân số). Nguồn: [World Bank Open Data](https://data.worldbank.org/country/vietnam) (CC BY-4.0).
+
+### `dan-toc-vietnam-2019.csv`
+
+54 dân tộc được Nhà nước công nhận, kèm dân số theo Tổng điều tra dân số 2019 và nhóm ngôn ngữ (theo phân loại 8 nhóm / 3 ngữ hệ). Sắp xếp theo dân số giảm dần; tổng cộng 96.205.082 người. Nguồn dân số: [Tổng cục Thống kê — Tổng điều tra 2019](https://www.nso.gov.vn).
 
 ### `di-san-the-gioi-unesco.csv`
 
