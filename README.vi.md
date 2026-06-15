@@ -24,6 +24,8 @@ Thư mục [`data/`](data/) chứa các bộ dữ liệu CSV nhỏ, sạch, sẵ
 - [`kinh-te-vietnam-1960-2024.csv`](data/kinh-te-vietnam-1960-2024.csv) — dân số, GDP và tăng trưởng GDP 1960–2024 (World Bank).
 - [`chi-so-phat-trien-2000-2023.csv`](data/chi-so-phat-trien-2000-2023.csv) — lạm phát CPI, tuổi thọ, tỷ lệ dùng Internet 2000–2023 (World Bank).
 - [`di-san-the-gioi-unesco.csv`](data/di-san-the-gioi-unesco.csv) — 9 Di sản Thế giới UNESCO kèm năm công nhận và mã hồ sơ.
+- [`di-san-phi-vat-the-unesco.csv`](data/di-san-phi-vat-the-unesco.csv) — 17 di sản văn hóa phi vật thể UNESCO kèm năm và danh sách.
+- [`nha-may-dien-vietnam.csv`](data/nha-may-dien-vietnam.csv) — 19 nhà máy điện lớn kèm loại, công suất (MW) và năm vận hành.
 - [`dan-toc-vietnam-2019.csv`](data/dan-toc-vietnam-2019.csv) — 54 dân tộc kèm dân số (điều tra 2019) và nhóm ngôn ngữ.
 - [`vuon-quoc-gia-vietnam.csv`](data/vuon-quoc-gia-vietnam.csv) — 34 vườn quốc gia kèm năm thành lập, vùng và diện tích.
 - [`ty-gia-vnd-usd-1995-2024.csv`](data/ty-gia-vnd-usd-1995-2024.csv) — tỷ giá VND/USD bình quân năm 1995–2024 (World Bank).
