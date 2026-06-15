@@ -50,6 +50,14 @@ Chỉ số phát triển 2000–2023 theo World Bank: lạm phát CPI (%), tuổ
 
 54 dân tộc được Nhà nước công nhận, kèm dân số theo Tổng điều tra dân số 2019 và nhóm ngôn ngữ (theo phân loại 8 nhóm / 3 ngữ hệ). Sắp xếp theo dân số giảm dần; tổng cộng 96.205.082 người. Nguồn dân số: [Tổng cục Thống kê — Tổng điều tra 2019](https://www.nso.gov.vn).
 
+### `di-san-phi-vat-the-unesco.csv`
+
+17 di sản văn hóa phi vật thể được UNESCO ghi danh (14 Danh sách đại diện, 3 Cần bảo vệ khẩn cấp), kèm năm ghi danh và ghi chú vùng miền. Sắp xếp theo năm. Lưu ý: Nhã nhạc/Cồng chiêng ghi năm 2008 (năm đưa vào Danh sách của Công ước 2003; trước đó công bố Kiệt tác 2003/2005); Hát Xoan chuyển từ danh sách khẩn cấp (2011) sang đại diện (2017). Nguồn: [UNESCO ICH — Viet Nam](https://ich.unesco.org/en/state/viet-nam-VN).
+
+### `nha-may-dien-vietnam.csv`
+
+19 nhà máy điện lớn nhất kèm loại (thủy/nhiệt than/khí/mặt trời/gió), công suất (MW), sông (với thủy điện) hoặc tỉnh/thành 2025, và năm vận hành. Sắp xếp theo công suất giảm dần. Các tổ hợp nhiệt điện (Vĩnh Tân, Duyên Hải, Phú Mỹ…) gộp tổng công suất các tổ máy đang vận hành. Nguồn: tổng hợp từ Wikipedia và Global Energy Monitor.
+
 ### `di-san-the-gioi-unesco.csv`
 
 9 Di sản Thế giới UNESCO tại Việt Nam (6 văn hóa, 2 tự nhiên, 1 hỗn hợp) kèm năm công nhận, mã hồ sơ UNESCO và tỉnh, thành theo địa giới 2025. Nguồn: [UNESCO World Heritage Centre — Viet Nam](https://whc.unesco.org/en/statesparties/vn) (qua Wikipedia).
