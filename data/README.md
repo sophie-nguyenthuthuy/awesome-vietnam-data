@@ -54,6 +54,10 @@ Chỉ số phát triển 2000–2023 theo World Bank: lạm phát CPI (%), tuổ
 
 9 Di sản Thế giới UNESCO tại Việt Nam (6 văn hóa, 2 tự nhiên, 1 hỗn hợp) kèm năm công nhận, mã hồ sơ UNESCO và tỉnh, thành theo địa giới 2025. Nguồn: [UNESCO World Heritage Centre — Viet Nam](https://whc.unesco.org/en/statesparties/vn) (qua Wikipedia).
 
+### `vuon-quoc-gia-vietnam.csv`
+
+34 vườn quốc gia kèm năm thành lập, vùng (Bắc/Trung/Nam) và diện tích (ha). Sắp xếp theo năm thành lập. Một số diện tích phản ánh lần mở rộng gần nhất (vd Phong Nha – Kẻ Bàng sau mở rộng 2013); chưa gồm VQG Bát Xát (Lào Cai, lập 2026). Nguồn: [Wikipedia — Danh sách vườn quốc gia tại Việt Nam](https://vi.wikipedia.org/wiki/Danh_sách_vườn_quốc_gia_tại_Việt_Nam).
+
 ### `san-bay-vietnam.csv`
 
 Các sân bay dân dụng đang khai thác (11 quốc tế, 12 nội địa) kèm mã IATA/ICAO và tỉnh, thành theo địa giới 2025; thêm Long Thành (đang xây dựng). Nguồn: tổng hợp từ ICAO/IATA qua [Wikipedia — List of airports in Vietnam](https://en.wikipedia.org/wiki/List_of_airports_in_Vietnam).
