@@ -24,6 +24,7 @@ Thư mục [`data/`](data/) chứa các bộ dữ liệu CSV nhỏ, sạch, sẵ
 - [`kinh-te-vietnam-1960-2024.csv`](data/kinh-te-vietnam-1960-2024.csv) — dân số, GDP và tăng trưởng GDP 1960–2024 (World Bank).
 - [`chi-so-phat-trien-2000-2023.csv`](data/chi-so-phat-trien-2000-2023.csv) — lạm phát CPI, tuổi thọ, tỷ lệ dùng Internet 2000–2023 (World Bank).
 - [`di-san-the-gioi-unesco.csv`](data/di-san-the-gioi-unesco.csv) — 9 Di sản Thế giới UNESCO kèm năm công nhận và mã hồ sơ.
+- [`dan-toc-vietnam-2019.csv`](data/dan-toc-vietnam-2019.csv) — 54 dân tộc kèm dân số (điều tra 2019) và nhóm ngôn ngữ.
 - [`san-bay-vietnam.csv`](data/san-bay-vietnam.csv) — sân bay dân dụng kèm mã IATA/ICAO theo địa giới 2025.
 - [`tet-nguyen-dan-2025-2035.csv`](data/tet-nguyen-dan-2025-2035.csv) — ngày mùng 1 Tết và can chi 2025–2035.
 - [`ngay-le-vietnam-2026.csv`](data/ngay-le-vietnam-2026.csv) — ngày nghỉ lễ chính thức 2026, kèm âm lịch và nghỉ bù.
