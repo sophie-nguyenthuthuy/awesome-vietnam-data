@@ -66,6 +66,14 @@ Tỷ giá VND/USD bình quân năm 1995–2024 (World Bank, PA.NUS.FCRF — tỷ
 
 34 vườn quốc gia kèm năm thành lập, vùng (Bắc/Trung/Nam) và diện tích (ha). Sắp xếp theo năm thành lập. Một số diện tích phản ánh lần mở rộng gần nhất (vd Phong Nha – Kẻ Bàng sau mở rộng 2013); chưa gồm VQG Bát Xát (Lào Cai, lập 2026). Nguồn: [Wikipedia — Danh sách vườn quốc gia tại Việt Nam](https://vi.wikipedia.org/wiki/Danh_sách_vườn_quốc_gia_tại_Việt_Nam).
 
+### `cang-bien-vietnam.csv`
+
+13 cảng biển thương mại lớn kèm tỉnh, thành (địa giới 2025), phân loại theo hệ thống cảng biển Việt Nam (Quyết định 804/QĐ-TTg) và vùng. Lưu ý: phân loại theo nhóm cảng cấp tỉnh, không theo từng bến. Cảng Quy Nhơn nay thuộc tỉnh Gia Lai (Bình Định cũ); Cái Mép – Thị Vải và Sài Gòn thuộc TP. Hồ Chí Minh. Nguồn: Cục Hàng hải VN / Quyết định 804/QĐ-TTg.
+
+### `dai-hoc-vietnam.csv`
+
+21 trường đại học lớn kèm tên tiếng Anh, năm thành lập, tỉnh/thành (địa giới 2025) và loại hình (công lập/tư thục). Sắp xếp theo năm thành lập. Một số năm tính theo tiền thân thời Pháp (vd ĐHQG Hà Nội — 1906; ĐH Y Hà Nội — 1902). Nguồn: tổng hợp từ Wikipedia và trang chính thức các trường.
+
 ### `san-bay-vietnam.csv`
 
 Các sân bay dân dụng đang khai thác (11 quốc tế, 12 nội địa) kèm mã IATA/ICAO và tỉnh, thành theo địa giới 2025; thêm Long Thành (đang xây dựng). Nguồn: tổng hợp từ ICAO/IATA qua [Wikipedia — List of airports in Vietnam](https://en.wikipedia.org/wiki/List_of_airports_in_Vietnam).
