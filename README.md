@@ -62,6 +62,7 @@
 - [DHS Program — Vietnam surveys](https://dhsprogram.com) — health and demographic microdata (registration required).
 - [UNICEF MICS](https://mics.unicef.org) — multiple indicator cluster surveys incl. Vietnam.
 - [Our World in Data](https://ourworldindata.org) — charts + downloadable VN series for health, energy, education.
+- [DataInt Databook — Viet Nam](https://databook.dataint.net/vi/quoc-gia/viet-nam/) — country reference pages (population, economy, infrastructure, governance) compiled from World Bank/UN/UNESCO with per-figure source attribution; read-only, no bulk download.
 
 ## Tools & Libraries
 
