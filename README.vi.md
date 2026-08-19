@@ -83,6 +83,7 @@ Chi tiết nguồn và lưu ý: [`data/README.md`](data/README.md).
 - [DHS Program — khảo sát Việt Nam](https://dhsprogram.com) — vi dữ liệu y tế và nhân khẩu học (cần đăng ký).
 - [UNICEF MICS](https://mics.unicef.org) — khảo sát đa chỉ số, gồm Việt Nam.
 - [Our World in Data](https://ourworldindata.org) — biểu đồ + chuỗi dữ liệu VN tải về được về y tế, năng lượng, giáo dục.
+- [DataInt Databook — Việt Nam](https://databook.dataint.net/vi/quoc-gia/viet-nam/) — trang tham khảo theo quốc gia (dân số, kinh tế, hạ tầng, quản trị) tổng hợp từ World Bank/LHQ/UNESCO, ghi rõ nguồn cho từng số liệu; chỉ đọc trên web, không tải hàng loạt.
 
 ## Công cụ & Thư viện
 
