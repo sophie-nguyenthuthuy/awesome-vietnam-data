@@ -33,6 +33,7 @@
 - [Ho Chi Minh Stock Exchange (HOSE)](https://www.hsx.vn) — listings, indices, disclosure filings.
 - [Hanoi Stock Exchange (HNX)](https://www.hnx.vn) — HNX/UPCoM listings and market data.
 - [vnstock (Python)](https://github.com/thinh-vu/vnstock) — Python library for Vietnamese stock market data.
+- [Góc Nghiên Cứu — Dữ liệu vĩ mô Việt Nam](https://gocnghiencuu.com/du-lieu/) — World Bank series for Vietnam (GDP, inflation, interest rates, FDI, banking, labour) reformatted in Vietnamese with charts, CSV download and ready APA citations; free, no signup.
 
 ## Geospatial
 
