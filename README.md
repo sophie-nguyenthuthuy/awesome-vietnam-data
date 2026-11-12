@@ -69,6 +69,7 @@
 - [underthesea](https://github.com/undertheseanlp/underthesea) / [pyvi](https://github.com/trungtv/pyvi) — text processing for Vietnamese.
 - [inflation-crawler](https://github.com/sophie-nguyenthuthuy/data-engineering/tree/main/inflation-crawler) — VN CPI/inflation crawler → DuckDB → FastAPI (part of my DE monorepo).
 - [savings-rate-engine](https://github.com/sophie-nguyenthuthuy/data-engineering/tree/main/savings-rate-engine) — scrapes & normalizes VN bank savings rates.
+- [API Việt Nam](https://byliem.com/api-viet-nam) — directory of public APIs with Vietnamese data (administrative units, banks and VietQR, stocks, shipping, holidays, weather), each health-checked on a schedule so you can see which are still up, plus auth, CORS and docs links.
 
 ## Working with Vietnamese data: gotchas
 

@@ -90,6 +90,7 @@ Chi tiết nguồn và lưu ý: [`data/README.md`](data/README.md).
 - [underthesea](https://github.com/undertheseanlp/underthesea) / [pyvi](https://github.com/trungtv/pyvi) — xử lý văn bản tiếng Việt.
 - [inflation-crawler](https://github.com/sophie-nguyenthuthuy/data-engineering/tree/main/inflation-crawler) — crawler CPI/lạm phát VN → DuckDB → FastAPI (thuộc monorepo DE của mình).
 - [savings-rate-engine](https://github.com/sophie-nguyenthuthuy/data-engineering/tree/main/savings-rate-engine) — thu thập & chuẩn hóa lãi suất tiết kiệm ngân hàng VN.
+- [API Việt Nam](https://byliem.com/api-viet-nam) — danh mục API công khai có dữ liệu Việt Nam (hành chính, ngân hàng và VietQR, chứng khoán, vận chuyển, ngày lễ, thời tiết), mỗi API được kiểm tra định kỳ để biết cái nào còn chạy, kèm thông tin xác thực, CORS và link tài liệu.
 
 ## Lưu ý khi làm việc với dữ liệu Việt Nam
 
